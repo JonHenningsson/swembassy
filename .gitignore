@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# added
+bin/
+lib64
+pyvenv.cfg
+sendgrid.env
